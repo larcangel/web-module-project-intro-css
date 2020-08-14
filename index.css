@@ -1,0 +1,169 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.container {
+  margin: 20px;
+  border: 1px solid black;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.plan {
+  background-color: #ff764e;
+}
+
+.learn {
+  background-color: #5ed3eb;
+}
+
+.get {
+  background-color: #ffcd69;
+}
+
+footer {
+  border: 0px;
+  padding: 50px;
+  width: 100%;
+  background-color: peachpuff;
+}
+
+.imghead {
+  width: 25%;
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.headline {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.second-paragraph {
+  padding: 30px 15px;
+  text-align: center;
+  background-color: peachpuff;
+  color: white;
+}
+
+.imgfire {
+  align-content: center;
+  margin: auto;
+  width: 10%;
+  height: 10%;
+  padding-top: 20px;
+}
+
+.imgbus {
+  width: 10%;
+}
+
+.imgfooter {
+  height: 5%;
+  width: 100%;
+}
+
+.imgparagraph p {
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
